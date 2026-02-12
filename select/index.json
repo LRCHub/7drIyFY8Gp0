@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヴェルヴェット",
+  "base_artist": "ソフィア・ヴァレンタイン",
+  "createdAt": "2026-02-12T05:52:45.604403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴェルヴェット",
+      "artist": "Alice Nine",
+      "has_synced": true,
+      "path": "select/01_ヴェルヴェット_Alice_Nine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴェルヴェット",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/02_ヴェルヴェット_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴェルヴェット",
+      "artist": "ソフィア・ヴァレンタイン",
+      "has_synced": false,
+      "path": "select/pl_01_ヴェルヴェット_ソフィア・ヴァレンタイン.txt"
+    }
+  ]
+}
